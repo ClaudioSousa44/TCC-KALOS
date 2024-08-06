@@ -5,7 +5,7 @@ Projeto apenas criado para demonstrar meu TCC realizado pelo SENAI JANDIRA.
 
 ---
 
-[Clique aqui](https://www.figma.com/design/6wMmgCPnRiSF0EXvk8FsJm/Kalos-App---aluno?node-id=0-1&t=U54JBlV0u4l3hFia-0)) para acessar o projeto no nosso Figma mobile.
+[Clique aqui](https://www.figma.com/design/6wMmgCPnRiSF0EXvk8FsJm/Kalos-App---aluno?node-id=0-1&t=U54JBlV0u4l3hFia-0) para acessar o projeto no nosso Figma mobile.
 
 ---
 

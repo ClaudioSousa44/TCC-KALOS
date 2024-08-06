@@ -14,7 +14,7 @@ Minha principal participação foi no desenvolvimento Mobile (kotlin), mas tamb�
 
 
 ---
-[Clique aqui](https://drive.google.com/file/d/1NhoBPYW7cWMO1XyBcHExc27OVJTQrQjv/view) para acessar o vídeo do nosso projeto em andamento.
+[Clique aqui](https://drive.google.com/file/d/1NhoBPYW7cWMO1XyBcHExc27OVJTQrQjv/view) para acessar o vídeo do nosso projeto funcionando.
 
 
 

@@ -13,7 +13,7 @@ Projeto apenas criado para demonstrar meu TCC realizado pelo SENAI JANDIRA.
 
 
 ---
-[Clique aqui](https://www.figma.com/design/OKunD5FhOzVoXT4E7Srmwu/Kalos?t=Lo6diImlH7gDBtQa-0) para acessar o vídeo do nosso projeto em andamento.
+[Clique aqui](https://drive.google.com/file/d/1NhoBPYW7cWMO1XyBcHExc27OVJTQrQjv/view) para acessar o vídeo do nosso projeto em andamento.
 
 
 

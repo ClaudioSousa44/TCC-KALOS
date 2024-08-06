@@ -1,5 +1,6 @@
 # TCC-KALOS
 Projeto apenas criado para demonstrar meu TCC realizado pelo SENAI JANDIRA.
+Minha principal participação foi no desenvolvimento Mobile (kotlin), mas também realizei contribuições para Back-end e Banco de dados.
 
 [Clique aqui](https://github.com/Kalos-TCC-2023) para acessar o projeto aqui no GitHub.
 
